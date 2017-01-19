@@ -1,6 +1,6 @@
 osTicket
 ========
-<a href="http://osticket.com"><img src="http://osticket.com/sites/default/files/osTicket.jpg"
+<a href="http://www.gta.ufrj.br/"><img src="http://www.gta.ufrj.br/ensino/eel879/trabalhos_vf_2010_2/andre/images/Server-based-network.png"
 align="left" hspace="10" vspace="6"></a>
 
 **osTicket** is a widely-used open source support ticket system. It seamlessly
